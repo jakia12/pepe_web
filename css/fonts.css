@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'RobotoMono-Italic';
+  src: url('../fonts/RobotoMono-Italic-VariableFont_wght.ttf') format('ttf'),
+       url('../fonts/RobotoMono-Italic-VariableFont_wght.ttf') format('truetype');
+       font-weight: 400;
+       font-display: swap;
+       font-style: normal;
+}
+@font-face {
+  font-family: 'Genty Demo';
+  src: url('../fonts/GentyDemo-Regular.ttf') format('truetype'),
+      url('../fonts/GentyDemo-Regular.svg#GentyDemo-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
